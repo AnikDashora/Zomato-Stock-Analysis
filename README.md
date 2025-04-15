@@ -1,11 +1,18 @@
 Zomato Stock Market EDA (Python)
-This project performs Exploratory Data Analysis (EDA) on Zomato's stock market data fetched from Upstox. The analysis uses Pandas, NumPy, Matplotlib, and Seaborn to extract insights and visualize trends./n
-Libraries Used
+This project performs Exploratory Data Analysis (EDA) on Zomato's stock market data fetched from Upstox. The analysis uses Pandas, NumPy, Matplotlib, and Seaborn to extract insights and visualize trends.
+
+Libraries Used:-
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Dataset Features:-
+
 timestamp, date, time,open, high, low, close,volume, oi, ema_10_close, sma_9_ema
 
 Missing Values
